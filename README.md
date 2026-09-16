@@ -310,3 +310,17 @@ Projeto desenvolvido para estudo, desenvolvimento profissional e documentação 
 ## 📄 Observação
 
 Este projeto é apresentado de forma anonimizada e não contém dados corporativos confidenciais da fonte original.
+
+## 📊 Demonstração do dashboard
+
+### Visão Geral
+
+![Visão Geral](visao-geral-anonimizada.png)
+
+### Detalhes
+
+![Detalhes](detalhes-anonimizada.png)
+
+### Leituras Operacionais
+
+![Leituras Operacionais](leituras-operacionais-anonimizada.png)
