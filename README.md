@@ -1,4 +1,4 @@
-# Dashboard de Gestão de Incidentes de TI
+# Case prático de Business Intelligence aplicado à gestão de incidentes de infraestrutura de TI.
 
 Solução de Business Intelligence desenvolvida para análise, monitoramento e apoio à gestão de incidentes de infraestrutura de TI.
 
@@ -6,11 +6,7 @@ Solução de Business Intelligence desenvolvida para análise, monitoramento e a
 
 ## 📌 Sobre o projeto
 
-Este projeto consiste no desenvolvimento de um dashboard utilizando **Microsoft Power BI** para transformar dados operacionais provenientes de painéis de monitoramento de um sistema ITSM em informações visuais e analíticas.
-
-A solução surgiu de uma necessidade operacional: facilitar a interpretação de uma grande quantidade de registros de incidentes e permitir a identificação de situações que podem demandar maior atenção da equipe.
-
-O dashboard permite analisar os incidentes sob diferentes perspectivas, incluindo localização, operadora, tipo de circuito, problema, tempo de indisponibilidade e período de ocorrência.
+O projeto demonstra como dados operacionais podem ser tratados com Power Query, estruturados em um modelo de dados e transformados em indicadores e análises no Power BI para apoiar a priorização e o acompanhamento de incidentes..
 
 ---
 
